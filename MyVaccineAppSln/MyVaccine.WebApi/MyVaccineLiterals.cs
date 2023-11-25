@@ -2,6 +2,6 @@
 
 public class MyVaccineLiterals
 {
-    public const string MY_VACCINE_CONNECTION_
+    public const string CONNECTION_STRING = "MY_VACCINE_CONNECTION_STRING";
 
 }
